@@ -7,3 +7,7 @@
     font-size: 400%;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.blog .header {
+   color: aqua;
+}
