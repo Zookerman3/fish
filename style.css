@@ -1,0 +1,9 @@
+.blog p {
+    color: red;
+    font-family: sans-serif;
+}
+
+.about {
+    font-size: 400%;
+    font-family: 'Courier New', Courier, monospace;
+}
