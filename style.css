@@ -1,3 +1,9 @@
+.blog {
+    width: 30%;
+    float: left;
+  }
+  
+
 .blog p {
     color: red;
     font-family: sans-serif;
@@ -6,6 +12,9 @@
 .about {
     font-size: 400%;
     font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    float: left;
+    background-color: yellow;
 }
 
 .blog .header {
